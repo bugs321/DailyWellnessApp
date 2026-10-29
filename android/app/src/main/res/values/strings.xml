@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyWell</string>
+    <string name="health_connect_rationale">DailyWell reads step records securely from Health Connect to show your daily activity progress on your local device. Your health data is never shared or uploaded.</string>
+    <string name="wellness_disclaimer">DailyWell is designed for personal habit tracking and general wellbeing. It does not provide medical diagnosis, treatment, or clinical advice.</string>
+</resources>

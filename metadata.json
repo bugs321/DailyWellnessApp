@@ -1,0 +1,6 @@
+{
+  "name": "DailyWell",
+  "description": "Daily health and wellness task manager native Android application built with Kotlin, Jetpack Compose, Material 3, Room local persistence, and Health Connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
